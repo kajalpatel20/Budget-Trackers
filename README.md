@@ -2,7 +2,7 @@
 
 
 ## Description
-The app allows users to be able to add expenses and deposits to their budget with or without a connection. When app comes back online, offline transactions will be added to the total. Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information
+The app allows users to be able to add expenses and deposits to their budget with or without a connection. When app comes back online, offline transactions will be added to the total. Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important.
 ## User Story
 AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
 
@@ -20,6 +20,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Usage:
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+
+![Budget-Tracker](./public/images/budget-tracker.png)
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
@@ -47,7 +49,7 @@ Mongoose
 
 Express
 
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
+* Deployed application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
 
 
 ### Deployment: 
